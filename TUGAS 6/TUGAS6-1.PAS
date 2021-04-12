@@ -8,6 +8,7 @@ uses crt;
 var
 r:real;
 phi:real;
+procedure tugas_6;
 var
 luas:real;
 begin
